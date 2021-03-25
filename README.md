@@ -1,1 +1,2 @@
 # Vegetation-Dynamics-Project
+As a component of CNRCWP Project, I worked with a vegetation dynamics model which simulates competition between different types of vegetation (Plant Functional Types, PFTs). The code presented here produces competition between different types of PFTs over a period of 400 years. If you would like to know more about the project, you can read the full paper [here](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015JG003234 "Shrestha et al., 2016").   
